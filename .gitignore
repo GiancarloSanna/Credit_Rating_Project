@@ -130,4 +130,8 @@ dmypy.json
 
 # CSV Datafiles
 
+*.p
 *.csv
+*.xml
+*.txt
+
