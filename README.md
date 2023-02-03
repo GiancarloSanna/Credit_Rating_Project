@@ -57,4 +57,4 @@ Rating Data: https://www.sec.gov
 Stock Data: https.//www.simfin.com
 
 
-Ebay Logo: https:www.ebay.com Press Kit
+Ebay Logo: https://www.ebay.com Press Kit
